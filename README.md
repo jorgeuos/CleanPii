@@ -1,2 +1,6 @@
-# CleanPii
-A plugin for Matomo that cleans Url's that have been aggregated into blobs.
+# Matomo CleanPii Plugin
+
+## Description
+
+Add your plugin description here.
+
