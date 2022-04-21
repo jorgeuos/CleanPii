@@ -15,7 +15,7 @@
     "support": {
         "issues": "https://github.com/jorgeuos/CleanPii/issues",
         "source": "https://github.com/jorgeuos/CleanPii",
-        "docs": "",
+        "docs": "https://github.com/jorgeuos/CleanPii/blob/main/docs/index.md"
     },
     "license": "MIT",
     "keywords": ["Matomo","Erase","PII"]
