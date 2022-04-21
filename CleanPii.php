@@ -1,11 +1,9 @@
 <?php
 /**
- * Matomo - free/libre analytics platform
- *
- * @link https://matomo.org
- * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
+ * Copyright (c) 2022 Jorge Powers
+ * @link https://jorgeuos.github.io/
+ * @license https://github.com/jorgeuos/CleanPii/blob/main/LICENSE MIT License
  */
-
 namespace Piwik\Plugins\CleanPii;
 
 class CleanPii extends \Piwik\Plugin

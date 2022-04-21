@@ -2,28 +2,21 @@
     "name": "CleanPii",
     "description": "Clean Url's that have been aggregated into blobs.",
     "version": "0.1.0",
-    "theme": false,
     "require": {
         "matomo": ">=4.7.1-stable,<5.0.0-b1"
     },
     "authors": [
         {
             "name": "Matomo",
-            "email": "",
-            "homepage": ""
+            "email": "jorge.capow@gmail.com",
+            "homepage": "https://jorgeuos.github.io/"
         }
     ],
     "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
-        "irc": "",
-        "wiki": "",
-        "source": "",
+        "issues": "https://github.com/jorgeuos/CleanPii/issues",
+        "source": "https://github.com/jorgeuos/CleanPii",
         "docs": "",
-        "rss": ""
     },
-    "homepage": "",
-    "license": "GPL v3+",
-    "keywords": []
+    "license": "MIT",
+    "keywords": ["Matomo","Erase","PII"]
 }
